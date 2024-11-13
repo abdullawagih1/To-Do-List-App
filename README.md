@@ -21,10 +21,6 @@ A full-stack To-Do List application built with **Node.js**, **Express**, and **M
 - **HTML/CSS/JavaScript**: Front-end interface.
 - **Vercel**: Deployment platform for modern web applications.
 
-## 📂 **Project Structure**
-simple-rest-api/ ├── index.js ├── public/ │ ├── tasks.html │ ├── all-tasks.html │ ├── script.js │ ├── all-tasks.js │ └── style.css ├── package.json ├── .env ├── .gitignore └── vercel.json
-
-
 ## ⚙️ **Setup Instructions**
 
 ### Prerequisites
